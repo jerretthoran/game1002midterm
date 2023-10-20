@@ -1,0 +1,191 @@
+﻿title: Start
+
+author: "jerrett"
+position: -328,-855
+---
+hi boys welcome to the escape room hope you have a good time 
+Dan: this is going to be so much fun 
+Callum: your right now jerrett dont do anything stupid 
+jerrett: oh please when do i ever do that 
+Dan & Callum: everyday 
+jerrett: yeah yeah whatever
+-> the rules  
+    <<jump Rules>>
+-> dont care
+    <<jump food>>
+===
+
+title: Rules
+position: -178,-447
+---
+employee: boys please dont destroyed anything that is not ment to be destroyed
+Dan & Callum: ya you hear that jerrett
+jerrett: what ever 
+Dan & callum: we are just messing with you 
+jerrett: i know 
+-> start
+    <<jump room1>>
+===
+
+title: room1
+position: -253,-36
+---
+The Boys: now what 
+jerrett: idk 
+Callum: look at the door 
+Dan & jerrett: what do you mean by that 
+Callum: use your eyes jerrett
+jerrett: hehehehe you should not be saying that 
+-> door way 
+    <<jump doorway>>
+===
+
+title: test1
+position: -40,114
+---
+employee: do you guys need help 
+The boys: na we good
+employee: ok just cheaking 
+callum & dan: jerrett you seem to having fun 
+Jerrett: what gives you that idea 
+Dan & Callum: do you want to help us jerrett 
+Jerrett: na i am good
+
+-> close to the next room  
+    <<jump room2>>
+===
+
+title: room2
+position: -36,336
+---
+dan: jerrett callum  
+Jerrett & callum: ya 
+Dan: your sitting on the key 
+Jerrett & callum: oh 
+dan: idiots 
+Jerrett & callum: shut up
+-> room3 
+<<jump room3>>
+===
+
+title: room3
+position: 255,121
+---
+employee: 15 mintuse boys
+Boys: ok 
+callum & dan: jerrett stop being lazy man 
+Jerrett: ok ok fine i guess
+
+-> helping
+ <<jump moving>>
+-> give up
+<<jump end>>
+===
+
+title: moving
+position: -32,588
+---
+the Boys: ok so if we get the box over there then we can start getting to the next room if we have time 
+Dan: ya jerrett
+Jerrett: i get it ok 
+callum: wall do you 
+Dan & jerrett: realy callum 
+
+-> keep running
+    <<jump final_mintues>>
+-> fall down 
+    <<jump closingthime>>
+===
+
+title: final_mintues
+position: 265,430
+---
+All: time is allmost up 
+the boys: we know 
+employee: just saying 
+jerrett: shut up
+-> speed up
+<<jump celebrate_win>>
+===
+
+title: closingthime
+position: 233,653
+---
+dan: well that was a wased of money 
+Jerrett: i guess so 
+callum: sorry boy 
+dan & jerrett: all good man 
+
+-> food time?
+    <<jump stayingalive>>
+===
+
+title: celebrate_win
+position: 505,497
+---
+Jerrett: ok lets hury this up
+Dan & Callum: really jerrett
+Jerrett: what  
+Dan & callum: idiot
+-> next room
+    <<jump hot_chocolate>>
+===
+
+title: hot_chocolate
+position: 508,656
+---
+boys: all right we know we cant bet this in the time left 
+Jerrett: then why dont we just sit on the chouch that is there 
+Callum: really 
+Jerrett: i am just saying 
+Dan: your not to helpful 
+-> times up 
+    <<jump time>>
+===
+title:stayingalive
+position:
+position: 258,828
+---
+the boys did not end up being able to to the room so they just went out for food
+===
+title: time
+position: 825,514
+---
+employee: times up boys 
+the boys: well that was fun 
+employee: not many have been this room 
+
+===
+title: food
+position:
+position: 235,-158
+---
+jerrett: good job lets go out for lunch 
+callum: now why would do that 
+dan: i am with jerett on this one 
+===
+title: doorway
+position: -356,181
+---
+the Boys: well what is the plan jerrett
+jerrett: why are you asking me 
+Dan: because you allways have a plan 
+jerrett: well this time i dont ok man 
+callum: punching the wall 
+Jerrett: what the hell are you doing callum
+Callum: idk man this sucks 
+jerrett: this was your idea callum 
+dan: is that very help full jerrett
+Jerrett: no 
+-> anyways
+<<jump back>>
+===
+title: back
+position: -385,384
+---
+Dan: so then why did you say it jerrett
+Jerrett: i dont know man 
+dan: then dont say that 
+-> the door
+<<jump test1>>
+===
